@@ -1,0 +1,40 @@
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2\ПП.2\bin\Debug\ПП.2.exe.config
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2\ПП.2\bin\Debug\ПП.2.exe
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2\ПП.2\bin\Debug\ПП.2.pdb
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2\ПП.2\obj\Debug\ПП.2.csproj.AssemblyReference.cache
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2\ПП.2\obj\Debug\ПП._2.Form1.resources
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2\ПП.2\obj\Debug\ПП._2.Properties.Resources.resources
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2\ПП.2\obj\Debug\ПП.2.csproj.GenerateResource.cache
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2\ПП.2\obj\Debug\ПП.2.csproj.CoreCompileInputs.cache
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2\ПП.2\obj\Debug\ПП.2.exe
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2\ПП.2\obj\Debug\ПП.2.pdb
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2\ПП.2\obj\Debug\ПП.DocumentationTypeForm.resources
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2\ПП.2\obj\Debug\ПП.ConstructionSiteForm.resources
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2\ПП.2\obj\Debug\ПП._2.SiteManagerForm.resources
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2\ПП.2\obj\Debug\ПП.WorkTypeForm.resources
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2\ПП.2\obj\Debug\ПП._2.ObjectWorkForm.resources
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2\ПП.2\obj\Debug\ПП._2.ObjectDocumentForm.resources
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2\ПП.2\obj\Debug\ПП._2.ContractorForm.resources
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2\ПП.2\obj\Debug\ПП.2.csproj.ResolveComReference.cache
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2 — копия\ПП.2\bin\Debug\ПП.2.exe.config
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2 — копия\ПП.2\bin\Debug\ПП.2.exe
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2 — копия\ПП.2\bin\Debug\ПП.2.pdb
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2 — копия\ПП.2\obj\Debug\ПП.2.csproj.AssemblyReference.cache
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2 — копия\ПП.2\obj\Debug\ПП.2.csproj.ResolveComReference.cache
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2 — копия\ПП.2\obj\Debug\ПП._2.Properties.Resources.resources
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2 — копия\ПП.2\obj\Debug\ПП.DocumentationTypeForm.resources
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2 — копия\ПП.2\obj\Debug\ПП.WorkTypeForm.resources
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2 — копия\ПП.2\obj\Debug\ПП._2.ObjectDocumentForm.resources
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2 — копия\ПП.2\obj\Debug\ПП.ConstructionSiteForm.resources
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2 — копия\ПП.2\obj\Debug\ПП._2.ContractorForm.resources
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2 — копия\ПП.2\obj\Debug\ПП._2.ObjectWorkForm.resources
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2 — копия\ПП.2\obj\Debug\ПП._2.SiteManagerForm.resources
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2 — копия\ПП.2\obj\Debug\ПП.2.csproj.GenerateResource.cache
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2 — копия\ПП.2\obj\Debug\ПП.2.csproj.CoreCompileInputs.cache
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2 — копия\ПП.2\obj\Debug\ПП.2.exe
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2 — копия\ПП.2\obj\Debug\ПП.2.pdb
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2 — копия\ПП.2\obj\Debug\ПП._2.LoginForm.resources
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2 — копия\ПП.2\obj\Debug\ПП._2.Registrationcs.resources
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2 — копия\ПП.2\obj\Debug\ПП._2.Директор.resources
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2 — копия\ПП.2\obj\Debug\ПП._2.Менеджер.resources
+C:\Users\tatya\OneDrive\Desktop\Политех\3 курс\Пракика ПП\ПП.2 — копия\ПП.2\obj\Debug\ПП._2.UserForm.resources
